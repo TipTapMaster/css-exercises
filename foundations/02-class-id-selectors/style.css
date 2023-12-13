@@ -1,0 +1,19 @@
+.red-bg{
+    background-color: #FF9494;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.red-lgfont {
+    font-size: 24px;
+}
+
+#blue-big {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#green-bold {
+    background-color: #66FF66;
+    font-size: 24px;
+    font-weight: bold;
+}
